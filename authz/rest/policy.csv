@@ -1,0 +1,10 @@
+p, operation, /contracts, GET
+p, operation, /contracts, POST
+p, operation, /contracts/:id, GET
+
+p, customer_support, /contracts, GET
+p, customer_support, /contracts/:id, GET
+
+p, manager, /contracts/:id, DELETE
+
+p, admin, .*, .*

@@ -1,0 +1,10 @@
+p, operation, contracts, list
+p, operation, contracts, create
+p, operation, contracts, view
+
+p, customer_support, contracts, list
+p, customer_support, contracts, view
+
+p, manager, contracts, *
+
+p, admin, *, *
